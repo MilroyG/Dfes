@@ -56,7 +56,7 @@ Saved: Jan 27 2025 | 11:43:23 */
 
   try {
     // Fetch village data
-    const villageResponse = await fetch("C:\xampp\htdocs\dfes\dfes\wp-content\uploads");
+    const villageResponse = await fetch("https://github.com/milroyg/dfes/blob/gh-pages/wp-content/uploads/revenue_villages.json");
     const villageData = await villageResponse.json();
 
     // Create a map of village coordinates
