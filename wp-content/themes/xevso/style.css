@@ -30,11 +30,11 @@ Text Domain: xevso
 # 404 Page
 # Preloader 
 --------------------------------------------------------------*/
-html{
-	scroll-snap-type: y mandatory !important;	
-}
+
+
 .snap-scroll{
 	scroll-snap-align:start;
+	
 }
 .elementor-element elementor-element-43353ab e-con-full she-header-yes e-flex e-con e-parent e-lazyloaded she-header{
 	z-index:1;

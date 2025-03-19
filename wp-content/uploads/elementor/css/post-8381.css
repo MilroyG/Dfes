@@ -22,14 +22,6 @@
 /* Start custom CSS for container, class: .elementor-element-ee850d4 */.elementor-8381 .elementor-element.elementor-element-ee850d4 .snap-scroll{
     scroll-snap-align: start;
 }/* End custom CSS */
-/* Start custom CSS for page-settings */body.elementor-page-8381 {
-	scroll-snap-type: y mandatory;	
-}
-body.elementor-page-8381 .snap-scroll{
-	scroll-snap-align:start;
-}
-body.elementor-page-8381 body {
-    font-size: inherit !important;
-    line-height: inherit !important;
-    font-family: inherit !important;
+/* Start custom CSS for page-settings */html {
+	scroll-snap-type: y mandatory !important;	
 }/* End custom CSS */
