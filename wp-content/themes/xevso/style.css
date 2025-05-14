@@ -58,7 +58,7 @@ mark.has-inline-color.has-white-color {
    
 }
 .breadcroumb-boxs {
-    background-image: linear-gradient(to right,rgba(0,0,0,0.64),rgba(0,0,0,0.65)),url(https://rdst.bikebuzzbd.com/wp-content/uploads/2022/03/banner-bg.jpg);
+    background-image: linear-gradient(to right,rgba(0,0,0,0.64),rgba(0,0,0,0.65)),url('https://rdst.bikebuzzbd.com/wp-content/uploads/2022/03/banner-bg.jpg');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
