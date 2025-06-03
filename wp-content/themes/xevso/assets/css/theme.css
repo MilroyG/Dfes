@@ -21,7 +21,7 @@
 /* Transition */
 @font-face {
     font-family: "Josefin-Sans";
-    src: url("https://milroyg.github.io/dfes/wp-content/themes/xevso/assets/fonts/Josefin-Sans.ttf") format("truetype"), url("https://milroyg.github.io/dfes/wp-content/themes/xevso/assets/fonts/Josefin-Sans-webfont.woff") format("woff"), url("https://milroyg.github.io/dfes/wp-content/themes/xevso/assets/fonts/Josefin-Sans-webfont.woff2") format("woff2");
+    src: url("https://milroyg.github.io/dfes/wp-content/themes/xevso/assets/fonts/Josefin-Sans.ttf ") format("truetype"), url("https://milroyg.github.io/dfes/wp-content/themes/xevso/assets/fonts/Josefin-Sans-webfont.woff ") format("woff"), url("https://milroyg.github.io/dfes/wp-content/themes/xevso/assets/fonts/Josefin-Sans-webfont.woff2 ") format("woff2");
     font-style: normal;
 }
 

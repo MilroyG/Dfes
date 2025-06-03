@@ -2,7 +2,7 @@
 
  @font-face {
   font-family: 'fontello';
-  src: url('https://milroyg.github.io/dfes/wp-content/plugins/xevsocore/assets/fonts/fontello.eot?95908950#iefix') format('embedded-opentype'),
+  src: url('../fonts/fontello.eot?95908950#iefix') format('embedded-opentype'),
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'fontello';
-    src: url('https://milroyg.github.io/dfes/wp-content/plugins/xevsocore/assets/font/fontello.svg?95908950#fontello') format('svg');
+    src: url('../font/fontello.svg?95908950#fontello') format('svg');
   }
 }
 */
@@ -57,11 +57,11 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
 .icon-duckduckgo:before { content: '\21'; } /* '!' */
-.icon-aim:before { content: '\22'; } /* '"' */
+.icon-aim:before { content: '\22'; } /* '&quot;' */
 .icon-delicious:before { content: '\23'; } /* '#' */
 .icon-paypal-1:before { content: '\24'; } /* '$' */
 .icon-flattr-1:before { content: '\25'; } /* '%' */
-.icon-android:before { content: '\26'; } /* '&' */
+.icon-android:before { content: '\26'; } /* '&amp;' */
 .icon-eventful:before { content: '\27'; } /* ''' */
 .icon-compass-3:before { content: '\28'; } /* '(' */
 .icon-na:before { content: '\29'; } /* ')' */
@@ -84,7 +84,7 @@
 .icon-forrst:before { content: '\3a'; } /* ':' */
 .icon-digg:before { content: '\3b'; } /* ';' */
 .icon-spotify-1:before { content: '\3d'; } /* '=' */
-.icon-reddit:before { content: '\3e'; } /* '>' */
+.icon-reddit:before { content: '\3e'; } /* '&gt;' */
 .icon-guest:before { content: '\3f'; } /* '?' */
 .icon-gowalla:before { content: '\40'; } /* '@' */
 .icon-appstore:before { content: '\41'; } /* 'A' */
