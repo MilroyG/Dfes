@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
 	const path = window.location.pathname;
 		const lang = document.documentElement.lang;
 // 	 if (
-//     window.location.href.includes("https://milroyg.github.io/dfes/disaster-management/live-calls/") ||
+//     window.location.href.includes("https://milroyg.github.io/dfes/wordpress/disaster-management/live-calls/") ||
 //     window.location.href.includes("/wordpress/mr/%e0%a4%b0%e0%a4%bf%e0%a4%85%e0%a4%b2-%e0%a4%9f%e0%a4%be%e0%a4%87%e0%a4%ae-%e0%a4%98%e0%a4%9f%e0%a4%a8%e0%a4%be-%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%a8%e0%a4%be/")
 //   )
 	 if (document.body.classList.contains("parent-pageid-9722") || document.body.classList.contains("parent-pageid-9728")) {
