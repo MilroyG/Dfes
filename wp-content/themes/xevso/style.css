@@ -30,7 +30,11 @@ Text Domain: xevso
 # 404 Page
 # Preloader 
 --------------------------------------------------------------*/
-
+body{
+	text-align: justify;
+	font-size: 1 rem;
+	 font-family: 'Roboto';
+}
 
 .snap-scroll{
 	scroll-snap-align:start;
